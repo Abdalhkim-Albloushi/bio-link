@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkbio_app"]=self["webpackChunkbio_app"]||[]).push([[443],{833:function(n,a,u){u.r(a),u.d(a,{default:function(){return b}});var t=u(3396);const e={class:"about"},r=(0,t._)("h1",null,"This is an about page",-1),s=[r];function i(n,a){return(0,t.wg)(),(0,t.iD)("div",e,s)}var c=u(89);const o={},p=(0,c.Z)(o,[["render",i]]);var b=p}}]);
+//# sourceMappingURL=about.9fef3fba.js.map
